@@ -11,8 +11,8 @@
 - 🌱 I’m currently working on my Python skills.
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
-- 👨‍💻 You can check out my projects [here](https://github.com/VaibhavUpreti?tab=repositories)
-- ✉️ You can reach out to me via email at coder.vaibhavu@gmail.com
+- 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
+- ✉️ Email Address coder.vaibhavu@gmail.com
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 

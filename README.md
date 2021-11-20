@@ -2,6 +2,8 @@
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 
+### About Me
+
 - 🎓 I'm a 2025 passout student in Bachelor of Technology(AI&ML)
 - 🌱 I’m currently working on my Python skills.
 - 🖥️ Open to work!
@@ -9,6 +11,7 @@
 - 👨‍💻 You can check out my projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ You can reach out to me via email at coder.vaibhavu@gmail.com
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ---
 
@@ -40,18 +43,16 @@
 
 <p align="center">
 <a href="https://github.com/VaibhavUpreti">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaibhavUpreti&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavUpreti&theme=radical"/>
+  <img height="165em" align ="left"src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaibhavUpreti&theme=radical"/>
+  <img height="165em" align="left"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavUpreti&theme=radical"/>
 </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://twitter.com/vaibhav__upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav__upreti" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-upreti-739b0421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav upreti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmlGx1Tz_HimE9iO5wrJVdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaibhav upreti" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaibhavupreti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavupreti" height="30" width="40" /></a>
-
 </p>
 

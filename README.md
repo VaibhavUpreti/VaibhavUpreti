@@ -10,7 +10,6 @@
 - 🎓 I'm a 2025 passout student in Bachelor of Technology(AI&ML)
 - 🌱 I’m currently working on my Python skills.
 - 🖥️ Open to work!
-- 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
 

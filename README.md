@@ -8,7 +8,7 @@
 ### About Me
 
 - 🎓 I'm a 2025 passout student in Bachelor of Technology(AI&ML)
-- 🌱 I’m currently working on my Python skills.
+- 🌱 I’m currently working on my Python skills and MERN stack development.
 - 🖥️ Open to work!
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com

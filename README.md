@@ -11,7 +11,7 @@
 - 🌱 I’m currently working on my Python skills and MERN stack development.
 - 🖥️ Open to work!
 - (https://user-images.githubusercontent.com/85568177/145827886-7d94bb74-4c49-4692-b8ab-2a398ac409d7.png)[Portfolio](https://vaibhavupreti.github.io)
-
+- ![fav](https://user-images.githubusercontent.com/85568177/145828255-d188e45d-d6f1-4e23-a3ed-b837ce0cf2bb.png)
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
 

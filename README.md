@@ -10,6 +10,7 @@
 - 🎓 I'm a 2025 passout student in Bachelor of Technology(AI&ML)
 - 🌱 I’m currently working on my Javascript skills and MERN stack development.
 - 💻 [Portfolio](https://vaibhavupreti.github.io)
+- 🖊️ [Blog](https://vaibhav-blog.vercel.app/)
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
 

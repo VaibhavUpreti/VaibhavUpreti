@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 🎓 I'm a 2025 passout student in Bachelor of Technology(AI&ML)
+- 🎓 I'm a student pursuing Bachelor of Technology(AI&ML).
 - 🌱 I’m currently working on my Javascript skills and MERN stack development.
 - 💻 [Portfolio](https://vaibhavupreti.github.io)
 - 🖊️ [Blog](https://vaibhav-blog.vercel.app/)

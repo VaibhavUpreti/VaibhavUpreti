@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1450465182447194132/1634654810/1500x500)
+![banner](https://user-images.githubusercontent.com/85568177/147852590-bd34b473-5a2c-487a-85c0-4465c9a5ef70.jpeg)
 
 
 <h1 align="center"> Hi,I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>

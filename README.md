@@ -1,7 +1,7 @@
+<!-- markdownlint-disable-next-line -->
 ![MasterHead](https://user-images.githubusercontent.com/85568177/147852590-bd34b473-5a2c-487a-85c0-4465c9a5ef70.jpeg)
 
-
-<h1 align="center"> Hi,I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"> Hi, I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 
@@ -38,8 +38,6 @@
 <img src="https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
 
-
-
 ---
 
 ### ⚙️ GitHub Statistics
@@ -51,7 +49,7 @@
 </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav__upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav__upreti" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-upreti-739b0421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav upreti" height="30" width="40" /></a>

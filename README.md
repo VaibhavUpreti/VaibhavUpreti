@@ -4,7 +4,6 @@
 <h1 align="center"> Hi, I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaibhavUpreti&label=Views&color=red" alt="VaibhavUpreti" /> </p>
 
 
 ### About Me

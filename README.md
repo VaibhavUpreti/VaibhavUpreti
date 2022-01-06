@@ -41,11 +41,9 @@
 <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
 <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
 <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>&nbsp;
-
 <img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql"/>&nbsp;
 <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>&nbsp;
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
-
 <img src="https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql"/>&nbsp;
 <img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku"/>&nbsp;
 <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel"/>&nbsp;

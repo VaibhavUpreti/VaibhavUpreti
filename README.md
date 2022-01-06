@@ -37,6 +37,28 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
 <img src="https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublime-text"/>&nbsp;
 <img src="https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom"/>&nbsp;
+<img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>&nbsp;
+<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
+<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql"/>&nbsp;
+<img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>&nbsp;
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql"/>&nbsp;
+<img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku"/>&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel"/>&nbsp;
+<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes"/>&nbsp;
+<img src="https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=Node"/>&nbsp;
+<img src="https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next"/>&nbsp;
+<img src="https://img.shields.io/badge/-Opencv-05122A?style=flat&logo=opencv"/>&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas"/>&nbsp;
+<img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch"/>&nbsp;
+<img src="https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby"/>&nbsp;
+<img src="https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rails"/>&nbsp;
+<img src="https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwind"/>&nbsp;
+<img src="https://img.shields.io/badge/-Typescipt-05122A?style=flat&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
 
 ---

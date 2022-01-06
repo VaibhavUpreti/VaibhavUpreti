@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React" alt="ReactJS"/>&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>\
-<img src="https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublime-text"/>&nbsp;
 <img src="https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom"/>&nbsp;
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>&nbsp;
 <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
@@ -58,6 +57,7 @@
 <img src="https://img.shields.io/badge/-Typescipt-05122A?style=flat&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
+<img src="https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublime-text"/>&nbsp;
 
 ---
 

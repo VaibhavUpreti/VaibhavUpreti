@@ -9,7 +9,7 @@
 ### About Me
 
 - 🎓 I'm a student pursuing Bachelor of Technology(AI&ML).
-- 🌱 I’m currently working on my Javascript skills and MERN stack development.
+- 🌱 I’m currently working on cloud technologies.
 - 💻 [Portfolio](https://vaibhavupreti.github.io)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)

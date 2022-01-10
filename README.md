@@ -14,6 +14,7 @@
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
+- "One great project is better than 10 clones."
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 

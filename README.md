@@ -10,7 +10,7 @@
 
 - 🎓 I'm a student pursuing Bachelor of Technology(AI&ML).
 - 🌱 I’m currently working on cloud technologies and plural.sh
-- 💻 [Portfolio](https://vaibhavupreti.github.io)
+- 💻 [Portfolio](https://vaibhavupreti.vercel.app/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com

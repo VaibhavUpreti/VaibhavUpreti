@@ -13,6 +13,7 @@
 - 💻 [Portfolio](https://vaibhavupreti.vercel.app/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 🖊️ [Notes-Blog](https://blog.vaibhavupreti.tech/) My life is an open book, so you can see all my plannings here on my notion blog.
+- 💙 NextJS and Notion
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
 - "Contributing to open source and helping communities"

@@ -17,7 +17,7 @@
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com
 - "Contributing to open source and helping communities"
-Type this in your console/terminal
+- Type this in your console/terminal
 ```bash
 npx vaibhav-up
 ```

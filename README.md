@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 🎓 I'm a student pursuing Bachelor of Technology(AI&ML).
+- 🎓 I'm a fresher pursuing Bachelor of Technology(AI&ML).
 - 🌱 I’m currently working on cloud technologies and plural.sh
 - 💻 [Portfolio](https://vaibhavupreti.vercel.app/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)

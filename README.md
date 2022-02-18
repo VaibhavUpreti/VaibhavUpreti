@@ -9,7 +9,7 @@
 ### About Me
 
 - 🎓 I'm a fresher pursuing Bachelor of Technology(AI&ML) MAIT'25 .
-- 🌱 I’m currently working on cloud technologies and plural.sh
+- 🌱 I’m currently working on cloud technologies.
 - 💻 [Portfolio](https://vaibhavupreti.vercel.app/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 🖊️ [Notes-Blog](https://blog.vaibhavupreti.tech/) My life is an open book, so you can see all my plannings here on my notion blog.

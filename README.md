@@ -10,7 +10,7 @@
 
 - 🎓 I'm a fresher pursuing Bachelor of Technology(AI&ML) MAIT'25 .
 - 🌱 I’m currently contributing to GSSOC'22.
-- 💻 [Portfolio](https://vaibhavupreti.vercel.app/)
+- 💻 [Portfolio](https://vaibhavupreti.tech/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 🖊️ [Notes-Blog](https://blog.vaibhavupreti.tech/) My life is an open book, so you can see all my plannings here on my notion blog.
 - 💙 NextJS and Notion

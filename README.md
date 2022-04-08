@@ -60,6 +60,7 @@ npx vaibhav-up
 <img src="https://img.shields.io/badge/-Typescipt-05122A?style=flat&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
+<img src="https://img.shields.io/badge/-bash-05122A?style=flat&logo=ruby"/>&nbsp;
 
 ---
 

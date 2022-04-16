@@ -12,7 +12,7 @@
 - 🌱 I’m currently contributing to GSSOC'22 & trying to become proficient in DSA(C++).
 - 💻 [Portfolio](https://vaibhavupreti.tech/)
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
-- 🖊️ [Notes-Blog](https://blog.vaibhavupreti.tech/) My life is an open book, so you can see all my plannings here on my notion blog.
+- 🖊️ [Notes-Blog](https://blog.vaibhavupreti.tech/)
 - 💙 NextJS and Notion
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com

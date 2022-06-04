@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 ![MasterHead](https://user-images.githubusercontent.com/85568177/163663881-3595e2e8-3d1b-4b2b-995e-d3b2f322e0ab.jpeg)
 
-<h1 align="center"> Hi, I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"></h1>
+<h1 align="center"> Hi, I'm Vaibhav Upreti 👋 </h1>
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 

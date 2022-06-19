@@ -9,7 +9,7 @@
 ### About Me
 
 - 🎓 I'm a fresher pursuing Bachelor of Technology(AI&ML) MAIT'25 .
-- 🌱 I’m currently contributing to GSSOC'22 & trying to become proficient in DSA(C++).
+- 🌱 I’m currently making projects & practising DSA(C++).
 - 💻 [Portfolio](https://vaibhavupreti.tech/) - currently down -- making a new one
 - 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
 - 💙 NextJS and Notion

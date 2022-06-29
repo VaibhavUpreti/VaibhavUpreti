@@ -10,8 +10,8 @@
 
 - 🎓 I'm a fresher pursuing Bachelor of Technology(AI&ML) MAIT'25 .
 - 🌱 I’m currently making projects & practising DSA(C++).
-- 💻 [Portfolio](https://vaibhavupreti.tech/) - currently down -- making a new one
-- 🖊️ [Blog](https://vaibhavblogs.vercel.app/)
+- 💻 [Portfolio](https://vaibhavupreti.github.io/blog_jekyll/ 
+- 🖊️ [Blog](https://vaibhavupreti.github.io/blog_jekyll/blog)
 - 💙 NextJS and Notion
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 - ✉️ Email Address coder.vaibhavu@gmail.com

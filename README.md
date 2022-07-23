@@ -28,38 +28,44 @@ npx vaibhav-up
 ### Languages and Tools
 
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C" alt="C"/>&nbsp;
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++" alt="C"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="JavaScript"/>&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github"/>\
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="java"/>&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="Java"/>&nbsp;
+<img src="https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby" alt="Java"/>&nbsp;
+<img src="https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell" alt="Java"/>&nbsp;
+<img src="https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir" alt="Java"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>&nbsp;
+<img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=bash"/>&nbsp;
+
+
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="git"/>&nbsp;
+
+
 <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React" alt="ReactJS"/>&nbsp;
-<img src="https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom"/>&nbsp;
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>&nbsp;
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql"/>&nbsp;
-<img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>&nbsp;
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
-<img src="https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql"/>&nbsp;
-<img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku"/>&nbsp;
-<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel"/>&nbsp;
-<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes"/>&nbsp;
 <img src="https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=Node"/>&nbsp;
 <img src="https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next"/>&nbsp;
-<img src="https://img.shields.io/badge/-Opencv-05122A?style=flat&logo=opencv"/>&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas"/>&nbsp;
-<img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch"/>&nbsp;
-<img src="https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby"/>&nbsp;
-<img src="https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rails"/>&nbsp;
-<img src="https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwind"/>&nbsp;
-<img src="https://img.shields.io/badge/-Typescipt-05122A?style=flat&logo=typescript"/>&nbsp;
-<img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
-<img src="https://img.shields.io/badge/-bash-05122A?style=flat&logo=ruby"/>&nbsp;
+
+
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>&nbsp;
+<img src="https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql"/>&nbsp;
+<img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql"/>&nbsp;
+<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/>&nbsp;
+<img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch"/>&nbsp;
+
+
+<img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>&nbsp;
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
+<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku"/>&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel"/>&nbsp;
 
 ---
 

@@ -21,7 +21,8 @@
 	```
 
 <hr>
-|                |                                                        |                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| SKILLS         | DETAILS                                                | ICONS                                                                                                                                                                                                                                                                                                                                                                                         |
 |----------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Languages      | C++,Javascript, Python, C, Ruby                        | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp"> |
 | AI/ML          | Data Structures,Algorithms, Prolog and TensorFlow      |                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -30,6 +31,13 @@
 | Platforms      | Git,vercel,AWS,Heroku and GCP                          |                                                                                                                                                                                                                                                                                                                                                                                               |
 | Databases      | MySQL,PostgreSQL and Redis                             |                                                                                                                                                                                                                                                                                                                                                                                               |
 | Tools          | Bash, Docker, Kubernetes, Build Tools(Make,rake),CI/CD |                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+
+
+
+
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 

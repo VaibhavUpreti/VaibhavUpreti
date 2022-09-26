@@ -1,8 +1,9 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="center"> Hi, I'm Vaibhav Upreti 👋 </h1>
+🎓 I'm [Vaibhav Upreti](https://www.linkedin.com/in/vaibhav-upreti-739b0421a/),a goal oriented, focused computer science engineer with specialisation in AI and ML, and an
+10 eye for detail.  I have a passion for learning new algorithms and implementing them in webapps through Machine Learning and AI.   Always keen to explore new technologies
+and work on different frameworks.  🧡 Data Structures and Algorithms.
 
-<h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ### About Me
@@ -18,8 +19,6 @@ on different frameworks.🧡 Data Structures and Algorithms.
 	```
 
 <hr>
-<br>
-
 
 ### TechStack
 

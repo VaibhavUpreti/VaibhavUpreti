@@ -13,7 +13,6 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
 - 🌱 I’m currently making projects & practising DSA in C++.
 - 📧 Feel to reach out ... [socials](https://bio.link/vaibhavupreti)
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
-
 - 💻 [Website](https://vaibhavupreti.github.io/blog_jekyll/)
 - 📎 Type this in your console/terminal:
 	```bash

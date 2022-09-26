@@ -14,9 +14,9 @@
 	```bash
 		npx vaibhav-up
 	```
-<br>
-<hr>
 
+<hr>
+<br>
 
 
 ### TechStack

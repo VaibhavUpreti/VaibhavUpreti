@@ -12,14 +12,17 @@
 - 🌱 I’m currently making projects & practising DSA(C++).
 - 💻 [Portfolio](https://vaibhavupreti.github.io/blog_jekyll/)
 - 🖊️ [Blog](https://vaibhavupreti.github.io/blog_jekyll/blog)
-- 💙 NextJS and Notion
+
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
+
 - ✉️ Email Address coder.vaibhavu@gmail.com
+
 - "Contributing to open source and helping communities"
-- Type this in your console/terminal
-```bash
-npx vaibhav-up
-```
+
+- 📎 Type this in your console/terminal
+	```bash
+		npx vaibhav-up
+	```
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 

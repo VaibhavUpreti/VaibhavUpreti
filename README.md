@@ -8,8 +8,10 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ### About Me
+- I spend most of times on terminal ... preview my [dotfiles](https://github.com/VaibhavUpreti/dotfiles)
 - 🌱 I’m currently making projects & practising DSA(C++).
 - 💻 [Website](https://vaibhavupreti.github.io/blog_jekyll/)
+- 
 - 📎 Type this in your console/terminal:
 	```bash
 		npx vaibhav-up

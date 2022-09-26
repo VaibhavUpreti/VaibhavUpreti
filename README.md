@@ -11,8 +11,9 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
 - I spend most of times on terminal ... preview my [dotfiles](https://github.com/VaibhavUpreti/dotfiles)
 - 📕 I like to read ... A Reading & writing learner!
 - 🌱 I’m currently making projects & practising DSA in C++.
-- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 - 📧 Feel to reach out ... [socials](https://bio.link/vaibhavupreti)
+- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
 - 💻 [Website](https://vaibhavupreti.github.io/blog_jekyll/)
 - 📎 Type this in your console/terminal:
 	```bash

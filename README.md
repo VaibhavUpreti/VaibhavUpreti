@@ -1,6 +1,4 @@
 <!-- markdownlint-disable-next-line -->
-![MasterHead](https://user-images.githubusercontent.com/85568177/163663881-3595e2e8-3d1b-4b2b-995e-d3b2f322e0ab.jpeg)
-
 <h1 align="center"> Hi, I'm Vaibhav Upreti 👋 </h1>
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
@@ -15,14 +13,24 @@
 
 - 👨‍💻 My projects [here](https://github.com/VaibhavUpreti?tab=repositories)
 
-- ✉️ Email Address coder.vaibhavu@gmail.com
-
 - "Contributing to open source and helping communities"
 
 - 📎 Type this in your console/terminal
 	```bash
 		npx vaibhav-up
 	```
+
+<hr>
+
+| Languages  | C++,Javascript, Python, C, Ruby                        |                                                                                                                                                                                                                                                 |
+|------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|            | Data Structures ,Algorithms, Prolog and TensorFlow     |                                                                                                                                                                                                                                                 |
+| Database   | MySQL,PostgreSQL and Redis                             |                                                                                                                                                                                                                                                 |
+| Frameworks | ReactJS and NextJS                                     |                                                                                                                                                                                                                                                 |
+|            | Rails and NodeJS                                       | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">   |
+|            | Git,AWS,Heroku and GCP                                 |                                                                                                                                                                                                                                                 |
+|            | Bash, Docker, Kubernetes, Build Tools(Make,rake),CI/CD |                                                                                                                                                                                                                                                 |
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 

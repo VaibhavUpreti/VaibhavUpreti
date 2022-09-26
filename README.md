@@ -10,7 +10,6 @@
 - 🎓 I'm a student pursuing Bachelor of Technology(AI&ML), MAIT'25 .
 - 🌱 I’m currently making projects & practising DSA(C++).
 - 💻 [Website](https://vaibhavupreti.github.io/blog_jekyll/)
-- "Contributing to open source and helping communities"
 - 📎 Type this in your console/terminal:
 	```bash
 		npx vaibhav-up

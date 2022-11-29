@@ -49,5 +49,4 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
 <a href="https://twitter.com/vaibhav__upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav__upreti" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-upreti-739b0421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav upreti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmlGx1Tz_HimE9iO5wrJVdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaibhav upreti" height="30" width="40" /></a>
-<a href="https://vaibhavupreti.github.io/blog_jekyll/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="vaibhavupreti" height="30" width="40" /></a>
 </p>

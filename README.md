@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="left"> Hi, I'm Vaibhav Upreti 👋 </h1>
 
-🎓 I'm [Vaibhav Upreti](https://www.linkedin.com/in/vaibhav-upreti-739b0421a) , a goal oriented,focused computer science engineer with specialisation in
+🎓 I'm [Vaibhav Upreti](https://www.vaibhavupreti.me) , a goal oriented,focused computer science engineer with specialisation in
 AI and ML, and an eye for detail. I have a passion for learning new algorithms and implementing them in webapps through Machine Learning and AI.Always
 keen to explore new technologies and work on different frameworks.  🧡 Data Structures and Algorithms.
 
@@ -11,9 +11,8 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
 - 🖥️ I spend most of time on terminal ... preview my [dotfiles](https://github.com/VaibhavUpreti/dotfiles)
 - 📕 I like to read ... A Reading & writing learner!
 - 🌱 I’m currently making projects & practising DSA in C++.
-- 📧 Feel to reach out ... [socials](https://bio.link/vaibhavupreti)
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
-- 💻 [Website](https://vaibhavupreti.github.io/blog_jekyll/)
+- 💻 [Website](https://vaibhavupreti.me/)
 - 📎 Type this in your console/terminal:
 	```bash
 		npx vaibhav-up
@@ -42,11 +41,4 @@ keen to explore new technologies and work on different frameworks.  🧡 Data St
   <img height="165em" align ="left"src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaibhavUpreti&theme=radical"/>
   <img height="165em" align="left"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavUpreti&theme=radical"/>
 </a>
-</p>
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/vaibhav__upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav__upreti" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-upreti-739b0421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav upreti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmlGx1Tz_HimE9iO5wrJVdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaibhav upreti" height="30" width="40" /></a>
 </p>

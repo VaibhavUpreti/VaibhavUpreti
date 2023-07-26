@@ -1,16 +1,13 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="left"> Hi, I'm Vaibhav Upreti 👋 </h1>
-
-🎓 I'm [Vaibhav Upreti](https://www.vaibhavupreti.me) , a goal oriented,focused computer science engineer with specialisation in
-AI and ML, and an eye for detail. I have a passion for learning new algorithms and implementing them in webapps through Machine Learning and AI.Always
-keen to explore new technologies and work on different frameworks.  🧡 Data Structures and Algorithms.
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+
+I’m currently working with [CircuitVerse.org](https://circuitverse.org/) as a Google Summer of Code Student Developer.
+
 
 ### About Me
 - 🖥️ I spend most of time on terminal ... preview my [dotfiles](https://github.com/VaibhavUpreti/dotfiles)
 - 📕 I like to read ... A Reading & writing learner!
-- 🌱 I’m currently making projects & practising DSA in C++.
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 - 💻 [Website](https://vaibhavupreti.me/)
 - 📎 Type this in your console/terminal:

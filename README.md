@@ -12,6 +12,7 @@
 
 <hr>
 
+<!----
 ### TechStack
 
 | SKILLS         | DETAILS                                                | ICONS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -34,3 +35,5 @@
   <img height="165em" align="left"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavUpreti&theme=radical"/>
 </a>
 </p>
+
+---->

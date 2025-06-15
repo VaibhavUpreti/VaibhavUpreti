@@ -7,7 +7,7 @@
 - Currently working at [NoScrubs](https://noscrubs.com/), Austin's premium laundry delivery service.
 -->
 
-- 🧬 Working high-performance computing (HPC) & bioinformatics at [Tracer](https://www.tracer.cloud/)
+- 🧬 Working on high-performance computing (HPC) & bioinformatics at [Tracer](https://www.tracer.cloud/)
 - 🖥️ I spend most of time on terminal ... preview my [dotfiles](https://github.com/VaibhavUpreti/dotfiles)
 - 💻 [Website](https://vaibhavupreti.me/)
 - 📎 Type this in your console/terminal:
